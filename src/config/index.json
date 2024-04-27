@@ -27,21 +27,21 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "Gleam n'",
+    "subtitle": "Go",
+    "description": "As a dedicated car enthusiast with years of experience, I bring the shine and convenience of a high-quality car wash right to your doorstep. With Gleam n' Go, you can trust your vehicle to be meticulously cleaned and detailed with guaranteed satisfaction.",
+    "img": "/assets/images/hero.webp",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:sovietbulldozer@gmail.com?subject=I want to inquire more about the business"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Gleam n Go",
     "items": [
       {
         "title": "A plug n play template",
